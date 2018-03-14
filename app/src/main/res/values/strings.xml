@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Play_Simon</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_simon">SimonActivity</string>
+    <string name="red_button">Red Button</string>
+    <string name="yellow_button">Yellow Button</string>
+    <string name="green_button">Green Button</string>
+    <string name="blue_button">Blue Button</string>
+    <string name="director">Director</string>
+</resources>
